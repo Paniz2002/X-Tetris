@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michael/X-Tetris-Nicola/main.c
+stdio.h
+-
+stdlib.h
+-
+tetralib.h
+/home/michael/X-Tetris-Nicola/tetralib.h
+
+/home/michael/X-Tetris-Nicola/tetralib.h
+
